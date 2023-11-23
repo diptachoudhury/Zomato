@@ -1,2 +1,2 @@
-Simple website with html and css
-live swebsite `https://diptachoudhury.github.io/Zomato/`
+Simple website with html and css \n
+live website https://diptachoudhury.github.io/Zomato/
